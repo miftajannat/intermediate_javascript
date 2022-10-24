@@ -7,3 +7,5 @@ function add(num1, num2) {
 }
 const result = add(13, 82);
 console.log(result);
+
+
